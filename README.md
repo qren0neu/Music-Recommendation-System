@@ -1,6 +1,6 @@
 # Music-Recommendation-System
 
-> This readme file is part of our final report.
+> This readme file is part of our [final report](https://github.com/qren0neu/Music-Recommendation-System/blob/main/report.pdf).
 
 ## Introduction
 
