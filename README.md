@@ -16,6 +16,14 @@ Junwei, Huang
 
 https://www.linkedin.com/in/junweih/
 
+### About this project
+
+Presentation: See [presentation.pdf](https://github.com/qren0neu/Music-Recommendation-System/blob/main/Presentation.pdf)
+
+Report: See [report.pdf](https://github.com/qren0neu/Music-Recommendation-System/blob/main/report.pdf)
+
+Code: See [code](https://github.com/qren0neu/Music-Recommendation-System/tree/main/Music%20Recommendation%20System/code)
+
 ## Abstract
 
 Recommendation systems are designed to help users discover new content they may like but have never consumed before. In this report, we introduce a new music recommendation system that employs multiple approaches to recommend music based on user input. We described the design of the system, including the methods used to recommend music and the metrics to evaluate the performance. We also conducted experiments using different parameter configurations, and compared the results with the existing music recommendation system.
@@ -64,6 +72,8 @@ Our recommendation system has several advantages. First, it can make recommendat
 There are several ways to improve our system. One is to acquire more training data, which can be done by retrieving data from Spotify. Another is to look for additional evaluation metrics, such as user feedback. We can also explore other clustering algorithms such as DBSCAN and agglomerative clustering. Finally, we can adapt new mythology to enable more flexible adjustment of the existing algorithm. We can apply different weights to different steps, and new elements such as popularity and genre can be added. This will allow the algorithm to provide more personalized and accurate recommendations.
 
 ## Acknowledgements
+
+The training data is from: https://www.kaggle.com/datasets/vicsuperman/prediction-of-music-genre
 
 The learning code is adapted from: https://www.kaggle.com/datasets/vicsuperman/prediction-of-music-genre and references therein. 
 
