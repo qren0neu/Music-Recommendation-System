@@ -2,6 +2,20 @@
 
 > This readme file is part of our final report.
 
+## Introduction
+
+This is the final project of INFO 6105 Data Science Methods and Tools
+
+### About INFO 6105
+
+Introduces the fundamental techniques for machine learning and data science engineering. Discusses a variety of machine learning algorithms, along with examples of their implementation, evaluation, and best practices. Lays the foundation of how learning models are derived from complex data pipelines, both algorithmically and practically. Topics include supervised learning (parametric/nonparametric algorithms, support vector machines, kernels, neural networks, deep learning) and unsupervised learning (clustering, dimensionality reduction, recommender systems). Based on numerous real-world case studies.
+
+### Lecturer
+
+Junwei, Huang
+
+https://www.linkedin.com/in/junweih/
+
 ## Abstract
 
 Recommendation systems are designed to help users discover new content they may like but have never consumed before. In this report, we introduce a new music recommendation system that employs multiple approaches to recommend music based on user input. We described the design of the system, including the methods used to recommend music and the metrics to evaluate the performance. We also conducted experiments using different parameter configurations, and compared the results with the existing music recommendation system.
